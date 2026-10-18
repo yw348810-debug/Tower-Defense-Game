@@ -2,6 +2,10 @@
 
 单人 Unity 客户端 / Gameplay 求职 Demo。Unity 6000.6.3f1，URP 17.6，新 Input System。
 
+## 下载试玩
+
+Windows 64 位试玩包在 [GitHub Releases](https://github.com/yw348810-debug/Tower-Defense-Game/releases) 发布。下载附件中名称带 `Windows-x64` 的 ZIP，完整解压后双击 `TowerDefense.exe`。请保留同目录下的 `TowerDefense_Data`、DLL 和其他随包文件，无需安装 Unity 或 Python。Release 自动生成的 `Source code` 压缩包是工程源码；可运行试玩包由发行附件单独提供。
+
 首页支持开始游戏、选择三个独立关卡、设置和退出。设置含音量、中英双语及简单 / 困难 / 作弊三档难度，选择会保存并应用于当前战斗。困难保留原始平衡；简单开局金币 +80%、基地生命翻倍，敌人生命 / 速度 / 近战伤害分别为原值的 55% / 80% / 65%，击杀奖励提高。作弊模式金币、生命和魔法值不可耗尽，显示为 ∞。
 
 三关每次海克斯选择时，每张卡都可免费刷新一次，刷新保持本轮品质。当前银色、金色、彩色海克斯各 18 张，共 54 张，按关卡解锁和当前阵容过滤候选，带中英双语说明与联动提示。冰火蒸汽、兵营炮击、升级魔法回流、满级塔共振与召唤军团可组合成不同打法，完整卡池见 [海克斯重设计](Docs/Augment-Rework.md)。
@@ -23,7 +27,7 @@
 - Unity：进入 Play Mode 从首页开始，点击开始游戏后选择关卡；编辑器已配置 `MainMenu` 为播放起始场景。
 - 第二关困难模式初始 240 金币、20 生命、0 魔法值。详细兵营、出怪和彩色卡配置见 [第二关说明](Docs/Second-Level-Gameplay.md)。
 - 第三关困难模式初始 400 金币、25 生命、0 魔法值；18 波从 0 至 340 秒连续开始。首领清理完毕才会胜利。
-- 本轮直接在 Unity 检验，不重新打包。
+- 可在 Unity 的 `Tools > Tower Defense > Build Windows Demo` 构建当前首页与三关的 Windows 64 位版本，默认输出到 `Builds/WindowsDemo`。试玩说明在 `Docs/Windows-Player-Readme.txt`；用 `Tools/Build/Package-WindowsDemo.ps1` 为构建目录附加说明与授权并生成 ZIP。
 - 左下选择塔种，点击地图上的圆形塔位，再点 `BUILD`。已建塔再次选中可点 `UPGRADE`，每塔可升级两次，从 LV 1 到 LV 3，逐级切换外观。
 - 第一关困难模式初始 180 金币、20 点生命、0 点魔法值。金币靠击杀获得；建造和升级在进攻期间均可进行，普通暂停时也可规划并购买，选牌期间锁定操作。
 - 第一关开局显示三张银色卡，选择一张后开始；战斗时间 72 秒、重甲进攻前显示三张金色卡。效果持续本局，重开重新抽取；顶部卡牌悬停可查看完整说明。彩色第一关锁定，第二、三关依次选择银 / 金 / 彩；当前 54 张完整说明与组合示例见 [海克斯重设计](Docs/Augment-Rework.md)。
@@ -105,5 +109,6 @@
 - Kenney Tower Defense Kit 2.1：CC0，`Assets/ThirdParty/Kenney/TowerDefenseKit/License.txt`。
 - Quaternius Ultimate Monsters：CC0，`Assets/ThirdParty/Quaternius/UltimateMonsters/License.txt`。
 - TextMesh Pro / Liberation Sans：SIL OFL 1.1，`Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt`。
+- Noto Sans SC：SIL OFL 1.1，`Assets/ThirdParty/Fonts/NotoSansSC/LICENSE`。
 
 三关地图与后续递进设计见 `Docs/Three-Level-Design.md`。
