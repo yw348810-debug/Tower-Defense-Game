@@ -1,0 +1,139 @@
+{
+    "passed": true,
+    "failures": 0,
+    "error": "",
+    "checks": [
+        {
+            "name": "Exactly 54 unique draftable IDs",
+            "passed": true
+        },
+        {
+            "name": "Silver contains exactly 18 cards",
+            "passed": true
+        },
+        {
+            "name": "Gold contains exactly 18 cards",
+            "passed": true
+        },
+        {
+            "name": "Prismatic contains exactly 18 cards",
+            "passed": true
+        },
+        {
+            "name": "Every card has bilingual text and a short synergy hint",
+            "passed": true
+        },
+        {
+            "name": "Every card translates its current description and hint",
+            "passed": true
+        },
+        {
+            "name": "Canonical description plus synergy keeps Chinese when joined",
+            "passed": true
+        },
+        {
+            "name": "Multi-line tower stats retain appended max-level ability translation",
+            "passed": true
+        },
+        {
+            "name": "First-level silver and gold pools retain at least ten cards",
+            "passed": true
+        },
+        {
+            "name": "First-level pool excludes prismatic and future mechanics",
+            "passed": true
+        },
+        {
+            "name": "Retired cards remain compatible but cannot be drafted",
+            "passed": true
+        },
+        {
+            "name": "Twelve seeds retain tier, eligibility, unique offers and once-per-slot refresh",
+            "passed": true
+        },
+        {
+            "name": "Two different normal tower hits trigger twelve crossfire damage",
+            "passed": true
+        },
+        {
+            "name": "Crossfire respects per-target cooldown",
+            "passed": true
+        },
+        {
+            "name": "Secondary hits cannot trigger crossfire",
+            "passed": true
+        },
+        {
+            "name": "Crossfire works again after its cooldown",
+            "passed": true
+        },
+        {
+            "name": "Frost battery has a global four-second mana cooldown",
+            "passed": true
+        },
+        {
+            "name": "Bonus frost projectiles grant no mana",
+            "passed": true
+        },
+        {
+            "name": "Frost battery recharges",
+            "passed": true
+        },
+        {
+            "name": "Powder keg waits for four ordinary cannon impacts",
+            "passed": true
+        },
+        {
+            "name": "Fourth hit explodes exactly once, secondary cannot retrigger",
+            "passed": true
+        },
+        {
+            "name": "Steam circuit and elemental boil add their damage in one bounded burst",
+            "passed": true
+        },
+        {
+            "name": "Repeated fire ticks cannot repeat steam within five seconds",
+            "passed": true
+        },
+        {
+            "name": "Steam recharge triggers once again",
+            "passed": true
+        },
+        {
+            "name": "Precision craft is active only on max-level attacking towers",
+            "passed": true
+        },
+        {
+            "name": "Casting charges max towers and refunds two mana",
+            "passed": true
+        },
+        {
+            "name": "Relay refund has a five-second cooldown",
+            "passed": true
+        },
+        {
+            "name": "Masterwork resonance expires without permanent stat mutation",
+            "passed": true
+        },
+        {
+            "name": "Execution ignores high-health enemies",
+            "passed": true
+        },
+        {
+            "name": "Execution applies below twenty-five percent health",
+            "passed": true
+        },
+        {
+            "name": "Sanctuary roots modify healing and vulnerability duration",
+            "passed": true
+        },
+        {
+            "name": "Restart removes selected cards, trigger counters and temporary resonance",
+            "passed": true
+        },
+        {
+            "name": "Restart restores support and army modifiers",
+            "passed": true
+        }
+    ]
+}

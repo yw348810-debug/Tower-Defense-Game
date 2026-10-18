@@ -1,0 +1,26 @@
+{
+    "strategy": "gun",
+    "phase": "Defeat",
+    "outcome": "Defeat",
+    "timedOut": false,
+    "kills": 82,
+    "leaks": 14,
+    "HP": 0,
+    "gold": 370,
+    "shots": 555,
+    "upgrades": 0,
+    "shatters": 0,
+    "towercount": 6,
+    "wave": 6,
+    "assaultTime": 155.68722534179688,
+    "realElapsed": 38.632041931152344,
+    "slotOrder": [
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5",
+        "T6"
+    ],
+    "error": ""
+}

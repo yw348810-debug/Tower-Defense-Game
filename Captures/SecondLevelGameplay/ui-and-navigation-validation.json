@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "screen": "3840x2160; screenshots resized to 1280x720",
+  "checks": {
+    "completeUI": true,
+    "fourTowerCards": true,
+    "frostAim": true,
+    "exclusiveSpellAim": true,
+    "padCancelsSpellAim": true,
+    "barracksStats": true,
+    "freeUpgradeLabel": true,
+    "upgradeButtonUsesFreeRetrofit": true,
+    "all33CardTextsFit": true,
+    "prismFrames": true,
+    "cardBlocksWorldClicksAfterCanvasFrame": true,
+    "prismCardButtonSelects": true,
+    "returnToFirstMap": true,
+    "firstVictoryNextButtonVisible": true,
+    "nextButtonLoadsSecondMap": true,
+    "firstMapRetainsThreeTowersAndNoFrostSpell": true,
+    "secondMapOpensWithFourTowersFrostAndOpeningChoice": true
+  },
+  "note": "UI raycast checked after a rendered canvas frame; the immediate same-call layout probe was empty before graphics registration. Current Unity console has zero errors or warnings after regression and navigation tests."
+}

@@ -1,0 +1,68 @@
+{
+    "strategy": "mixed",
+    "phase": "Victory",
+    "error": "",
+    "running": false,
+    "seed": 9137,
+    "level": 3,
+    "kills": 551,
+    "leaks": 1,
+    "hp": 24,
+    "shield": 0,
+    "waves": 18,
+    "towers": 10,
+    "towerUpgrades": 20,
+    "gold": 2625,
+    "mana": 31,
+    "goldSpent": 3515,
+    "assaultTime": 413.1388244628906,
+    "seconds": 210.19309997558594,
+    "fireballs": 44,
+    "frostCasts": 8,
+    "reinforcementsCast": 6,
+    "battlecriesCast": 2,
+    "spellUpgrades": 8,
+    "refreshes": 3,
+    "bossesSpawned": 2,
+    "bossesKilled": 2,
+    "bossesLeaked": 0,
+    "blockingObservations": 47,
+    "missingTroopObservations": 41,
+    "heroObservations": 1369,
+    "vulnerabilityObservations": 40,
+    "battlecryObservations": 64,
+    "rageObservations": 154,
+    "peakReinforcements": 10,
+    "spellLevels": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "refreshesByChoice": [
+        1,
+        1,
+        1
+    ],
+    "augments": [
+        "LongRange",
+        "ExtendedBurn",
+        "ElementalBoil"
+    ],
+    "towerLevels": [
+        "T1 Gun L3",
+        "T2 Frost L3",
+        "T3 Cannon L3",
+        "T4 Barracks L3",
+        "T5 Gun L3",
+        "T6 Frost L3",
+        "T7 Cannon L3",
+        "T8 Barracks L3",
+        "T9 Support L3",
+        "T10 Gun L3"
+    ],
+    "bossModels": [
+        "Boss_Titan",
+        "Boss_Warden"
+    ]
+}

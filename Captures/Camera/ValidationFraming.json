@@ -1,0 +1,26 @@
+[
+  {
+    "width": 1280,
+    "height": 800,
+    "visiblePads": 6,
+    "clickablePads": 6,
+    "routePointsVisible": true,
+    "perspective": true
+  },
+  {
+    "width": 1280,
+    "height": 720,
+    "visiblePads": 6,
+    "clickablePads": 6,
+    "routePointsVisible": true,
+    "perspective": true
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "visiblePads": 6,
+    "clickablePads": 6,
+    "routePointsVisible": true,
+    "perspective": true
+  }
+]

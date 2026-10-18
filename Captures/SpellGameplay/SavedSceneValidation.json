@@ -1,0 +1,19 @@
+{
+  "scene": "Assets/Game/Scenes/Level01_ForestOutpost.unity",
+  "isDirty": false,
+  "IsPlaying": false,
+  "HiddenOriginalRoadRenderers": 37,
+  "VisibleWideRoadRenderers": 4,
+  "LaneOffset": 0.72,
+  "Cost": 12,
+  "Radius": 3.2,
+  "Duration": 3.0,
+  "ManaRewards": [
+    1,
+    1,
+    4
+  ],
+  "Pairs": true,
+  "UpgradeVisuals": true,
+  "Errors": []
+}

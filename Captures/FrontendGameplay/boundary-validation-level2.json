@@ -1,0 +1,369 @@
+{
+    "passed": true,
+    "failures": 0,
+    "level": 2,
+    "scene": "Assets/Game/Scenes/Level02_CanyonConfluence.unity",
+    "error": "",
+    "checks": [
+        {
+            "name": "Battlefield has an Esc menu",
+            "passed": true
+        },
+        {
+            "name": "Home and all three distinct battle scenes are registered",
+            "passed": true
+        },
+        {
+            "name": "Combat fixture runs at double speed",
+            "passed": true
+        },
+        {
+            "name": "Opening the menu stops combat and simulation time",
+            "passed": true
+        },
+        {
+            "name": "Opening an already open menu is idempotent",
+            "passed": true
+        },
+        {
+            "name": "The assault clock and spawn count remain still behind the menu",
+            "passed": true
+        },
+        {
+            "name": "Building is blocked behind the menu",
+            "passed": true
+        },
+        {
+            "name": "Tower upgrades are blocked behind the menu",
+            "passed": true
+        },
+        {
+            "name": "Fireball is blocked behind the menu",
+            "passed": true
+        },
+        {
+            "name": "Frost Nova is blocked behind the menu",
+            "passed": true
+        },
+        {
+            "name": "Fireball upgrades are blocked behind the menu",
+            "passed": true
+        },
+        {
+            "name": "FrostNova upgrades are blocked behind the menu",
+            "passed": true
+        },
+        {
+            "name": "Reinforcements upgrades are blocked behind the menu",
+            "passed": true
+        },
+        {
+            "name": "Battlecry upgrades are blocked behind the menu",
+            "passed": true
+        },
+        {
+            "name": "Pause and speed shortcuts cannot change the menu snapshot",
+            "passed": true
+        },
+        {
+            "name": "Blocked actions spend no resources or spell casts",
+            "passed": true
+        },
+        {
+            "name": "Closing the menu restores double-speed combat",
+            "passed": true
+        },
+        {
+            "name": "Closing an already closed menu does not alter combat speed",
+            "passed": true
+        },
+        {
+            "name": "A previously paused battle stays paused after closing the menu",
+            "passed": true
+        },
+        {
+            "name": "Manually resuming preserves the previous speed",
+            "passed": true
+        },
+        {
+            "name": "Esc menu can open during an augment choice",
+            "passed": true
+        },
+        {
+            "name": "A card cannot be selected through the menu",
+            "passed": true
+        },
+        {
+            "name": "A card cannot be refreshed through the menu",
+            "passed": true
+        },
+        {
+            "name": "Menu actions preserve offered and equipped augments",
+            "passed": true
+        },
+        {
+            "name": "Static labels switch to Chinese immediately",
+            "passed": true
+        },
+        {
+            "name": "Static labels retain their original English source",
+            "passed": true
+        },
+        {
+            "name": "Formatted labels preserve numbers while translating",
+            "passed": true
+        },
+        {
+            "name": "Dynamic text updates remain localized",
+            "passed": true
+        },
+        {
+            "name": "Returning to English restores the latest dynamic source",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Lucky Loot",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Construction Grant",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Mana Scavenger",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Long Range",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Lasting Frost",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Blast Calibration",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Focused Flame",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Combined Arms",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Fast Reinforcements",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Ember Ledger",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Frost Battery",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Powder Keg",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Crossfire",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Heroic Guard",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Spell Primer",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Precision Craft",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Sanctuary Roots",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Scorching Edges",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Gun Rhythm",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Frost Mark",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Shatter Resonance",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Extended Burn",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Fire Dividend",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Field Workshop",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Burning Mark",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Veteran Training",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Steam Circuit",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Execution Protocol",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Arcane Investment",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Upgrade Relay",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Echoing War Drums",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Guardian Bond",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Explosive Legacy",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Cold Front",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Cinder Harvest",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Siege Formation",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Ultimate Retrofit",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Piercing Rounds",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Polar Pulse",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Aftershock",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Twin Meteor",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Mana Furnace",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Second Wind",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Elemental Boil",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Vanguard Command",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Triple Convergence",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Masterwork Resonance",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Three-Color Cycle",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Eternal Legion",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Sanctuary Reactor",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Warpath",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Phoenix Pact",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Glacial Cataclysm",
+            "passed": true
+        },
+        {
+            "name": "Chinese augment: Arcane Supremacy",
+            "passed": true
+        },
+        {
+            "name": "Advanced tower, boss, spell and card details translate",
+            "passed": true
+        },
+        {
+            "name": "Chinese font asset is present",
+            "passed": true
+        },
+        {
+            "name": "Chinese font contains every exact translation character",
+            "passed": true
+        },
+        {
+            "name": "Changing language does not reroll or select cards",
+            "passed": true
+        },
+        {
+            "name": "Master volume applies while the game is paused",
+            "passed": true
+        },
+        {
+            "name": "Closing settings returns to the same paused augment choice",
+            "passed": true
+        },
+        {
+            "name": "Augment selection works after the menu is closed",
+            "passed": true
+        }
+    ]
+}

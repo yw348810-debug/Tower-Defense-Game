@@ -1,0 +1,120 @@
+{
+  "framing": [
+    {
+      "width": 1280,
+      "height": 800,
+      "pads": [
+        {
+          "slotId": "T1",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T2",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T3",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T4",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T5",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T6",
+          "visible": true,
+          "clickable": true
+        }
+      ],
+      "routesVisible": true
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "pads": [
+        {
+          "slotId": "T1",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T2",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T3",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T4",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T5",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T6",
+          "visible": true,
+          "clickable": true
+        }
+      ],
+      "routesVisible": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "pads": [
+        {
+          "slotId": "T1",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T2",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T3",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T4",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T5",
+          "visible": true,
+          "clickable": true
+        },
+        {
+          "slotId": "T6",
+          "visible": true,
+          "clickable": true
+        }
+      ],
+      "routesVisible": true
+    }
+  ],
+  "activeTextOverflow": [],
+  "uiUsesTMP": true,
+  "vectorIcons": 13,
+  "IsPaused": true,
+  "timeScale": 0.0
+}

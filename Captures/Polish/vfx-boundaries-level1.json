@@ -1,0 +1,35 @@
+{
+    "passed": true,
+    "failures": 0,
+    "level": 1,
+    "checks": [
+        {
+            "name": "Effects belong to the current session",
+            "passed": true
+        },
+        {
+            "name": "Burst pool remains bounded during a large assault",
+            "passed": true
+        },
+        {
+            "name": "Particle clocks respect pause",
+            "passed": true
+        },
+        {
+            "name": "Pause does not advance or return active bursts",
+            "passed": true
+        },
+        {
+            "name": "Visual effects do not change combat or economy",
+            "passed": true
+        },
+        {
+            "name": "Trails support translucent rendering",
+            "passed": true
+        },
+        {
+            "name": "Restart clears all bursts, including an assault at time zero",
+            "passed": true
+        }
+    ]
+}

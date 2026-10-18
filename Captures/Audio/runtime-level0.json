@@ -1,0 +1,492 @@
+{
+    "passed": true,
+    "failures": 0,
+    "level": 0,
+    "error": "",
+    "checks": [
+        {
+            "name": "Automatic audio singleton exists in Play Mode",
+            "passed": true
+        },
+        {
+            "name": "MainMenu maps to its own music",
+            "passed": true
+        },
+        {
+            "name": "Audio/Music_Menu is a readable stereo music asset",
+            "passed": true
+        },
+        {
+            "name": "Audio/Music_Menu streams compressed music without preloading",
+            "passed": true
+        },
+        {
+            "name": "Level01_ForestOutpost maps to its own music",
+            "passed": true
+        },
+        {
+            "name": "Audio/Music_Forest is a readable stereo music asset",
+            "passed": true
+        },
+        {
+            "name": "Audio/Music_Forest streams compressed music without preloading",
+            "passed": true
+        },
+        {
+            "name": "Level02_CanyonConfluence maps to its own music",
+            "passed": true
+        },
+        {
+            "name": "Audio/Music_Canyon is a readable stereo music asset",
+            "passed": true
+        },
+        {
+            "name": "Audio/Music_Canyon streams compressed music without preloading",
+            "passed": true
+        },
+        {
+            "name": "Level03_CoreFortress maps to its own music",
+            "passed": true
+        },
+        {
+            "name": "Audio/Music_Snow is a readable stereo music asset",
+            "passed": true
+        },
+        {
+            "name": "Audio/Music_Snow streams compressed music without preloading",
+            "passed": true
+        },
+        {
+            "name": "Unknown scenes have no unintended music",
+            "passed": true
+        },
+        {
+            "name": "UIClick is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "UIClick is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "UIClick contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "UIConfirm is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "UIConfirm is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "UIConfirm contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "UICancel is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "UICancel is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "UICancel contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "Build is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "Build is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "Build contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "Upgrade is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "Upgrade is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "Upgrade contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "AugmentRefresh is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "AugmentRefresh is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "AugmentRefresh contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "AugmentPick is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "AugmentPick is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "AugmentPick contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "GunShot is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "GunShot is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "GunShot contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "FrostShot is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "FrostShot is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "FrostShot contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "CannonShot is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "CannonShot is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "CannonShot contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "ProjectileHit is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "ProjectileHit is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "ProjectileHit contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "Explosion is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "Explosion is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "Explosion contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "Shatter is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "Shatter is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "Shatter contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "SoldierHit is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "SoldierHit is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "SoldierHit contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "SoldierDeath is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "SoldierDeath is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "SoldierDeath contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "Fireball is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "Fireball is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "Fireball contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "FrostNova is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "FrostNova is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "FrostNova contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "Reinforcements is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "Reinforcements is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "Reinforcements contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "Battlecry is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "Battlecry is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "Battlecry contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "WaveStart is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "WaveStart is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "WaveStart contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "EnemyLeak is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "EnemyLeak is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "EnemyLeak contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "BaseDanger is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "BaseDanger is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "BaseDanger contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "BossArrival is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "BossArrival is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "BossArrival contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "Victory is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "Victory is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "Victory contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "Defeat is a readable mono effect asset",
+            "passed": true
+        },
+        {
+            "name": "Defeat is preloaded PCM for immediate playback",
+            "passed": true
+        },
+        {
+            "name": "Defeat contains actual decoded sound samples",
+            "passed": true
+        },
+        {
+            "name": "All 29 music and effect resources are available",
+            "passed": true
+        },
+        {
+            "name": "Exactly one audio owner exists",
+            "passed": true
+        },
+        {
+            "name": "The pool contains exactly 24 effects and two music sources",
+            "passed": true
+        },
+        {
+            "name": "Every source remains audible independent of map-camera distance",
+            "passed": true
+        },
+        {
+            "name": "Static reset reuses the existing owner and bounded source pool",
+            "passed": true
+        },
+        {
+            "name": "A muted effect still schedules its real clip",
+            "passed": true
+        },
+        {
+            "name": "Zero volume mutes the common listener",
+            "passed": true
+        },
+        {
+            "name": "Intermediate volume affects music and effects through the listener once",
+            "passed": true
+        },
+        {
+            "name": "Restoring volume resumes the same sources without remixing",
+            "passed": true
+        },
+        {
+            "name": "A click increments both actual playback counters",
+            "passed": true
+        },
+        {
+            "name": "A same-frame repeated click is throttled",
+            "passed": true
+        },
+        {
+            "name": "A successful operation replaces its ordinary click",
+            "passed": true
+        },
+        {
+            "name": "Many simultaneous effects fill the fixed pool without allocating sources",
+            "passed": true
+        },
+        {
+            "name": "An ordinary hit cannot grow or churn the full pool",
+            "passed": true
+        },
+        {
+            "name": "Victory preempts an ordinary hit in the full pool",
+            "passed": true
+        },
+        {
+            "name": "Boss warnings also preempt ordinary hits without interrupting victory",
+            "passed": true
+        },
+        {
+            "name": "Combat cleanup also removes previous result sounds",
+            "passed": true
+        },
+        {
+            "name": "Combat effect starts before pause",
+            "passed": true
+        },
+        {
+            "name": "Battle pause preserves but pauses existing effects",
+            "passed": true
+        },
+        {
+            "name": "Battle pause rejects newly requested attacks",
+            "passed": true
+        },
+        {
+            "name": "Menus and purchases remain audible during battle pause",
+            "passed": true
+        },
+        {
+            "name": "Background music keeps playing while battle is paused",
+            "passed": true
+        },
+        {
+            "name": "Resume continues the paused combat voice",
+            "passed": true
+        },
+        {
+            "name": "Results are allowed while gameplay time is stopped",
+            "passed": true
+        },
+        {
+            "name": "Restart clears both result cues while preserving the menu click",
+            "passed": true
+        },
+        {
+            "name": "A scene transition plays at most two distinct music clips",
+            "passed": true
+        },
+        {
+            "name": "A rapid return reuses a single copy of the original track",
+            "passed": true
+        },
+        {
+            "name": "A rapid return keeps the original music playback position",
+            "passed": true
+        },
+        {
+            "name": "A paused scene transition completes and releases the outgoing music",
+            "passed": true
+        },
+        {
+            "name": "All stress and transition checks retain the original source count",
+            "passed": true
+        },
+        {
+            "name": "Validation restores time scale, volume and the original saved preference",
+            "passed": true
+        },
+        {
+            "name": "Validation leaves the correct scene music and no combat sounds",
+            "passed": true
+        }
+    ]
+}

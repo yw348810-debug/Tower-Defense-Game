@@ -1,0 +1,28 @@
+{
+    "passed": true,
+    "level": 3,
+    "failures": 0,
+    "error": "",
+    "checks": [
+        {
+            "name": "Refresh is available in this level",
+            "passed": true
+        },
+        {
+            "name": "Thirty seeds allow every card to refresh exactly once at every choice",
+            "passed": true
+        },
+        {
+            "name": "Refresh preserves tier, distinct offers, unlocked cards and generic option",
+            "passed": true
+        },
+        {
+            "name": "Choice remains paused and settings cannot refresh behind the overlay",
+            "passed": true
+        },
+        {
+            "name": "Restart clears the per-choice refresh budget",
+            "passed": true
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "strategy": "none",
+    "phase": "Defeat",
+    "error": "",
+    "assaultTime": 46.031898498535156,
+    "seconds": 22.70008087158203,
+    "kills": 0,
+    "leaks": 20,
+    "hp": 0,
+    "waves": 2,
+    "towers": 0,
+    "upgrades": 0,
+    "mana": 12,
+    "fireballs": 0,
+    "frostCasts": 0,
+    "blockingObservations": 0,
+    "missingTroopObservations": 0,
+    "heroObservations": 0,
+    "augments": [
+        "StoredMana"
+    ]
+}

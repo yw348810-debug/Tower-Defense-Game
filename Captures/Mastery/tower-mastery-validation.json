@@ -1,0 +1,87 @@
+{
+    "passed": true,
+    "error": "",
+    "failures": 0,
+    "checks": [
+        {
+            "name": "Level-one rapidfire remains a single-target shot",
+            "passed": true
+        },
+        {
+            "name": "Level-three rapidfire retains full direct damage and adds 45% nearby splash",
+            "passed": true
+        },
+        {
+            "name": "Secondary rapidfire splash is applied once without recursive shots",
+            "passed": true
+        },
+        {
+            "name": "Frost levels one and two retain slow without area freeze",
+            "passed": true
+        },
+        {
+            "name": "Frost level two still targets one enemy",
+            "passed": true
+        },
+        {
+            "name": "Level-three frost freezes and slows a small group without touching distant enemies",
+            "passed": true
+        },
+        {
+            "name": "Boss control resistance still shortens tower freezes",
+            "passed": true
+        },
+        {
+            "name": "Several max-tier frost towers cannot refresh an enemy's shared freeze lock",
+            "passed": true
+        },
+        {
+            "name": "The target can be frozen again after its three-second control window",
+            "passed": true
+        },
+        {
+            "name": "A reused enemy cannot inherit a previous spawn's immunity",
+            "passed": true
+        },
+        {
+            "name": "Level-three Blast retains full area damage and gains stronger shatter",
+            "passed": true
+        },
+        {
+            "name": "A group shatter consumes only the direct frost mark and never chains itself",
+            "passed": true
+        },
+        {
+            "name": "Max-tier barracks strengthen their three soldiers and field a distinct champion",
+            "passed": true
+        },
+        {
+            "name": "The champion's first two strikes remain normal attacks",
+            "passed": true
+        },
+        {
+            "name": "Every third champion strike cleaves nearby foes at 60% without hitting distant foes",
+            "passed": true
+        },
+        {
+            "name": "Max-tier sanctuary applies 38% vulnerability for three seconds",
+            "passed": true
+        },
+        {
+            "name": "Max-tier sanctuary heals living troops by 22 per second",
+            "passed": true
+        },
+        {
+            "name": "Max-tier sanctuary emits extra runes and jade light columns",
+            "passed": true
+        },
+        {
+            "name": "Elite guards have distinct, reusable equipment without creating repeated copies",
+            "passed": true
+        },
+        {
+            "name": "A champion's final killing strike ends combat without a post-victory cleave",
+            "passed": true
+        }
+    ]
+}

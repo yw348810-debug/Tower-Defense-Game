@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "level": 2,
+  "checks": [
+    {
+      "name": "Refreshing a real augment card plays its cue",
+      "passed": true
+    },
+    {
+      "name": "Choosing an augment plays its cue",
+      "passed": true
+    },
+    {
+      "name": "Successful tower construction plays build",
+      "passed": true
+    },
+    {
+      "name": "Successful tower upgrade plays upgrade",
+      "passed": true
+    },
+    {
+      "name": "Successful spell upgrade plays upgrade",
+      "passed": true
+    },
+    {
+      "name": "A scheduled wave plays its warning",
+      "passed": true
+    },
+    {
+      "name": "Gun launches with its own sound",
+      "passed": true
+    },
+    {
+      "name": "Gun impact plays its hit sound",
+      "passed": true
+    },
+    {
+      "name": "Frost launches with its own sound",
+      "passed": true
+    },
+    {
+      "name": "Frost impact plays its hit sound",
+      "passed": true
+    },
+    {
+      "name": "Cannon launches with its own sound",
+      "passed": true
+    },
+    {
+      "name": "Cannon impact plays its hit sound",
+      "passed": true
+    },
+    {
+      "name": "Fireball cast plays spell cue",
+      "passed": true
+    },
+    {
+      "name": "Frost Nova cast plays spell cue",
+      "passed": true
+    },
+    {
+      "name": "An actual leaked enemy plays the core hit",
+      "passed": true
+    },
+    {
+      "name": "A lethal leak plays defeat after battle cleanup",
+      "passed": true
+    },
+    {
+      "name": "Final assault completion plays victory",
+      "passed": true
+    }
+  ],
+  "failures": []
+}

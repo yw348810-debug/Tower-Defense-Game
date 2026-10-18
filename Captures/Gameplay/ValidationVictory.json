@@ -1,0 +1,47 @@
+{
+  "phase": "Victory",
+  "wave": 5,
+  "hp": 20,
+  "kills": 60,
+  "leaks": 0,
+  "shots": 247,
+  "towers": 6,
+  "gold": 60,
+  "duplicateBuildBlocked": true,
+  "insufficientFundsBlocked": true,
+  "waveOverlapBlocked": true,
+  "history": [
+    {
+      "wave": 1,
+      "hp": 20,
+      "kills": 8,
+      "leaks": 0,
+      "towers": 3,
+      "gold": 32
+    },
+    {
+      "wave": 2,
+      "hp": 20,
+      "kills": 18,
+      "leaks": 0,
+      "towers": 4,
+      "gold": 12
+    },
+    {
+      "wave": 3,
+      "hp": 20,
+      "kills": 30,
+      "leaks": 0,
+      "towers": 5,
+      "gold": 0
+    },
+    {
+      "wave": 4,
+      "hp": 20,
+      "kills": 44,
+      "leaks": 0,
+      "towers": 5,
+      "gold": 56
+    }
+  ]
+}

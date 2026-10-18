@@ -1,0 +1,77 @@
+{
+    "passed": true,
+    "failures": 0,
+    "checks": [
+        {
+            "name": "Initial restart",
+            "passed": true,
+            "detail": "Gold 220, HP 20, wave 1."
+        },
+        {
+            "name": "Exact build payment",
+            "passed": true,
+            "detail": "Cost 60, remaining 160."
+        },
+        {
+            "name": "Duplicate build rejected without payment",
+            "passed": true,
+            "detail": "Accepted False, gold 160 -> 160."
+        },
+        {
+            "name": "Invalid pad rejected",
+            "passed": true,
+            "detail": "Accepted False."
+        },
+        {
+            "name": "First upgrade pays and reaches level 2",
+            "passed": true,
+            "detail": "Price 50, damage 10 -> 16, range 5.5 -> 6.1."
+        },
+        {
+            "name": "Second upgrade pays and reaches level 3",
+            "passed": true,
+            "detail": "Price 80, damage 16 -> 24, range 6.1 -> 6.6, gold 110 -> 30."
+        },
+        {
+            "name": "Level 3 visual is the final model",
+            "passed": true,
+            "detail": "Base False, upgraded False, final True."
+        },
+        {
+            "name": "Third upgrade rejected without payment",
+            "passed": true,
+            "detail": "Accepted False, gold 30 -> 30, level 3."
+        },
+        {
+            "name": "Empty pad upgrade rejected",
+            "passed": true,
+            "detail": "Accepted False."
+        },
+        {
+            "name": "Insufficient funds rejected without payment",
+            "passed": true,
+            "detail": "Remaining 30, cost 60, accepted False."
+        },
+        {
+            "name": "Pause stops simulation",
+            "passed": true,
+            "detail": "Time scale 0."
+        },
+        {
+            "name": "Speed toggle stays paused",
+            "passed": true,
+            "detail": "Time scale 0, selected speed 2."
+        },
+        {
+            "name": "Resume restores selected speed",
+            "passed": true,
+            "detail": "Time scale 2."
+        },
+        {
+            "name": "Restart resets all battle state",
+            "passed": true,
+            "detail": "Gold 220, HP 20, progress 0, paused False."
+        }
+    ],
+    "error": ""
+}

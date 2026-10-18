@@ -1,0 +1,63 @@
+{
+    "strategy": "mixed",
+    "phase": "Defeat",
+    "error": "",
+    "running": false,
+    "seed": 9137,
+    "level": 3,
+    "kills": 101,
+    "leaks": 17,
+    "hp": 0,
+    "shield": 0,
+    "waves": 6,
+    "towers": 8,
+    "towerUpgrades": 7,
+    "gold": 8,
+    "mana": 9,
+    "goldSpent": 1100,
+    "assaultTime": 110.00182342529297,
+    "seconds": 55.516353607177734,
+    "fireballs": 9,
+    "frostCasts": 0,
+    "reinforcementsCast": 0,
+    "battlecriesCast": 0,
+    "spellUpgrades": 1,
+    "refreshes": 1,
+    "bossesSpawned": 1,
+    "bossesKilled": 0,
+    "bossesLeaked": 0,
+    "blockingObservations": 0,
+    "missingTroopObservations": 0,
+    "heroObservations": 0,
+    "vulnerabilityObservations": 19,
+    "battlecryObservations": 0,
+    "rageObservations": 0,
+    "peakReinforcements": 0,
+    "spellLevels": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "refreshesByChoice": [
+        1,
+        0,
+        0
+    ],
+    "augments": [
+        "LongRange"
+    ],
+    "towerLevels": [
+        "T1 Gun L2",
+        "T2 Frost L2",
+        "T3 Cannon L2",
+        "T5 Gun L2",
+        "T6 Frost L2",
+        "T7 Cannon L2",
+        "T9 Support L1",
+        "T10 Gun L2"
+    ],
+    "bossModels": [
+        "Boss_Warden"
+    ]
+}

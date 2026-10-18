@@ -1,0 +1,21 @@
+{
+  "victoryRestart": {
+    "pass": true
+  },
+  "delayedBatchAndSingleReward": {
+    "pass": true
+  },
+  "oldBulletCannotHitReusedEnemy": {
+    "pass": true,
+    "reused": true
+  },
+  "lastEnemyClearsWave": {
+    "pass": true
+  },
+  "leakDefeatClearsOtherEnemies": {
+    "pass": true
+  },
+  "combatRestart": {
+    "pass": true
+  }
+}

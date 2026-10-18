@@ -1,0 +1,151 @@
+{
+    "passed": true,
+    "failures": 0,
+    "error": "",
+    "checks": [
+        {
+            "name": "Third battle uses original snow scene and ten pads",
+            "passed": true
+        },
+        {
+            "name": "Five towers, four spells, three augment choices",
+            "passed": true
+        },
+        {
+            "name": "Complete configuration",
+            "passed": true
+        },
+        {
+            "name": "Two separated boss encounters with distinct enemies",
+            "passed": true
+        },
+        {
+            "name": "Twenty seeds permit each slot to refresh exactly once at all three choices",
+            "passed": true
+        },
+        {
+            "name": "Rerolls keep quality, uniqueness, a generic option, and pause",
+            "passed": true
+        },
+        {
+            "name": "Selecting after refresh restores combat and disables refresh",
+            "passed": true
+        },
+        {
+            "name": "Full specialized board still permits all three promised refreshes",
+            "passed": true
+        },
+        {
+            "name": "Earlier levels keep refresh and spell upgrades locked",
+            "passed": true
+        },
+        {
+            "name": "All four spells accept exactly two paid upgrades",
+            "passed": true
+        },
+        {
+            "name": "Every spell upgrade improves its effect",
+            "passed": true
+        },
+        {
+            "name": "Insufficient gold cannot upgrade or alter spell",
+            "passed": true
+        },
+        {
+            "name": "Augment modal blocks spell upgrades and new spells",
+            "passed": true
+        },
+        {
+            "name": "Reinforcements summon three troops at level one",
+            "passed": true
+        },
+        {
+            "name": "Summon cooldown prevents an extra squad",
+            "passed": true
+        },
+        {
+            "name": "Fallen spell troops do not respawn",
+            "passed": true
+        },
+        {
+            "name": "Temporary squad expires without leaving friendly units",
+            "passed": true
+        },
+        {
+            "name": "Level three summon has five stronger troops",
+            "passed": true
+        },
+        {
+            "name": "Battlecry spends mana and buffs tower damage, speed and range",
+            "passed": true
+        },
+        {
+            "name": "Battlecry also buffs friendly unit attack interval and reach",
+            "passed": true
+        },
+        {
+            "name": "Battlecry cannot stack during cooldown",
+            "passed": true
+        },
+        {
+            "name": "Pause freezes all new combat timers",
+            "passed": true
+        },
+        {
+            "name": "Expired Battlecry restores base tower stats",
+            "passed": true
+        },
+        {
+            "name": "Support tower has level-one vulnerability and healing aura",
+            "passed": true
+        },
+        {
+            "name": "Support aura applies vulnerability to nearby enemies",
+            "passed": true
+        },
+        {
+            "name": "Vulnerability amplifies damage exactly once",
+            "passed": true
+        },
+        {
+            "name": "Support tower reaches stronger level-three aura",
+            "passed": true
+        },
+        {
+            "name": "Support aura heals nearby friendly units each second",
+            "passed": true
+        },
+        {
+            "name": "Healing is capped at max health",
+            "passed": true
+        },
+        {
+            "name": "First boss spawns with boss metadata",
+            "passed": true
+        },
+        {
+            "name": "Boss has reduced control duration",
+            "passed": true
+        },
+        {
+            "name": "Damaged boss enters its rage phase",
+            "passed": true
+        },
+        {
+            "name": "Boss death uses ordinary rewards and tracks boss kill",
+            "passed": true
+        },
+        {
+            "name": "Final boss is a separate larger-health encounter",
+            "passed": true
+        },
+        {
+            "name": "Both boss fights can be defeated",
+            "passed": true
+        },
+        {
+            "name": "Restart resets spells, refreshes, buffs, summons and boss counters",
+            "passed": true
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# IDE caches and generated project files
+/.vs/
+/.idea/
+/.gradle/
+/ExportedObj/
+/.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Temporary files and crash reports
+*.tmp
+*.log
+*.blend1
+*.blend1.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Generated build archives
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Auto-generated Unity integrations and test scenes
+/[Aa]ssets/Plugins/Editor/JetBrains*
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/UIElementsSchema/
+/[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Keep Assets and their .meta files, Packages, ProjectSettings,
+# Docs, Tools and Captures under version control.

@@ -1,0 +1,48 @@
+{
+    "passed": true,
+    "failures": 0,
+    "level": 1,
+    "error": "",
+    "checks": [
+        {
+            "name": "Spell upgrade availability follows the level",
+            "passed": true
+        },
+        {
+            "name": "First-level Fireball cannot be upgraded",
+            "passed": true
+        },
+        {
+            "name": "Max-level meteor and its trail are visibly larger",
+            "passed": true
+        },
+        {
+            "name": "Burn decals sit above the road surface",
+            "passed": true
+        },
+        {
+            "name": "Visual tiers preserve the same burn tick schedule",
+            "passed": true
+        },
+        {
+            "name": "Max-level Frost has additional runes and light columns",
+            "passed": true
+        },
+        {
+            "name": "Max-level summoning adds a complete gold ritual",
+            "passed": true
+        },
+        {
+            "name": "Max-level battlecry adds runes and several light columns",
+            "passed": true
+        },
+        {
+            "name": "Pause holds spell visual lifetimes",
+            "passed": true
+        },
+        {
+            "name": "Restart resets spell levels and transient visuals",
+            "passed": true
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "strategy": "mixed",
+    "phase": "Victory",
+    "error": "",
+    "assaultTime": 286.1705627441406,
+    "seconds": 145.73696899414063,
+    "kills": 346,
+    "leaks": 2,
+    "hp": 16,
+    "waves": 12,
+    "towers": 8,
+    "upgrades": 16,
+    "mana": 57,
+    "fireballs": 36,
+    "frostCasts": 3,
+    "blockingObservations": 262,
+    "missingTroopObservations": 146,
+    "heroObservations": 299,
+    "augments": [
+        "StoredMana",
+        "ExtendedBurn",
+        "PolarPulse"
+    ]
+}

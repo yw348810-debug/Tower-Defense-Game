@@ -1,0 +1,26 @@
+[
+  {
+    "level": 1,
+    "configured": true,
+    "routes": 2,
+    "pads": 6,
+    "padsClearOfHud": true,
+    "artColliders": 0
+  },
+  {
+    "level": 2,
+    "configured": true,
+    "routes": 2,
+    "pads": 8,
+    "padsClearOfHud": true,
+    "artColliders": 0
+  },
+  {
+    "level": 3,
+    "configured": true,
+    "routes": 2,
+    "pads": 10,
+    "padsClearOfHud": true,
+    "artColliders": 0
+  }
+]

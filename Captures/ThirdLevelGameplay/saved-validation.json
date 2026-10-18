@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "scene": "Assets/Game/Scenes/Level03_CoreFortress.unity",
+  "level": 3,
+  "initialGold": 400,
+  "initialHealth": 25,
+  "seed": 0,
+  "waves": 18,
+  "enemies": 552,
+  "bossEncounters": 2,
+  "checks": {
+    "firstLevel43Checks": true,
+    "secondLevel43Checks": true,
+    "thirdLevel36Checks": true,
+    "normalEconomyFullVictory": true,
+    "bothBossesKilled": true,
+    "allFourSpellsReachLevel3": true,
+    "allTenPadsOutsideUIAt4KAndWXGA": true,
+    "fontResizeRefreshAtWXGA": true,
+    "firstToSecondToThirdNavigation": true,
+    "thirdReturnToFirstNavigation": true,
+    "original4KPresetRestored": true,
+    "firstSceneHashPreserved": true,
+    "noSceneConfigurationErrors": true,
+    "sceneSavedAndClean": true,
+    "consoleNoErrorsOrWarnings": true
+  },
+  "fullRun": {
+    "kills": 551,
+    "leaks": 1,
+    "remainingHealth": 24,
+    "bossesKilled": 2,
+    "bossesLeaked": 0,
+    "assaultSeconds": 413.1388,
+    "spellLevels": [3, 3, 3, 3]
+  },
+  "packaged": false
+}

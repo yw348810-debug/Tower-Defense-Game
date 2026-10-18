@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Spell card selects aiming",
+    "passed": true
+  },
+  {
+    "name": "UI click blocks spell",
+    "passed": true
+  },
+  {
+    "name": "Map mouse click casts and pays",
+    "passed": true
+  },
+  {
+    "name": "Right click cancels without payment",
+    "passed": true
+  }
+]

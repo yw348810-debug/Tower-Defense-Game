@@ -1,0 +1,52 @@
+{
+    "strategy": "none",
+    "phase": "Defeat",
+    "error": "",
+    "running": false,
+    "seed": 9137,
+    "level": 3,
+    "kills": 0,
+    "leaks": 25,
+    "hp": 0,
+    "shield": 0,
+    "waves": 2,
+    "towers": 0,
+    "towerUpgrades": 0,
+    "gold": 400,
+    "mana": 0,
+    "goldSpent": 0,
+    "assaultTime": 35.02149200439453,
+    "seconds": 17.814563751220703,
+    "fireballs": 0,
+    "frostCasts": 0,
+    "reinforcementsCast": 0,
+    "battlecriesCast": 0,
+    "spellUpgrades": 0,
+    "refreshes": 1,
+    "bossesSpawned": 0,
+    "bossesKilled": 0,
+    "bossesLeaked": 0,
+    "blockingObservations": 0,
+    "missingTroopObservations": 0,
+    "heroObservations": 0,
+    "vulnerabilityObservations": 0,
+    "battlecryObservations": 0,
+    "rageObservations": 0,
+    "peakReinforcements": 0,
+    "spellLevels": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "refreshesByChoice": [
+        1,
+        0,
+        0
+    ],
+    "augments": [
+        "LongRange"
+    ],
+    "towerLevels": [],
+    "bossModels": []
+}

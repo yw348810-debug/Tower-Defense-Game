@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-15",
+  "resolutions": [
+    {
+      "width": 1280,
+      "height": 720,
+      "cardsChecked": 20,
+      "overflow": [],
+      "healthVisible": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "cardsChecked": 20,
+      "overflow": [],
+      "frameFits": true,
+      "activeCardOverflow": 0,
+      "phase": "Combat",
+      "time": 72,
+      "scale": 0
+    }
+  ],
+  "openingRaycast": {
+    "target": "Choose Augment 1",
+    "clicked": true,
+    "releaseGate": true
+  },
+  "midpoint": {
+    "boundaryFrozen": true,
+    "goldClickResumes2x": true
+  }
+}

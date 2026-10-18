@@ -1,0 +1,383 @@
+{
+    "passed": true,
+    "failures": 0,
+    "error": "",
+    "checks": [
+        {
+            "name": "Portable Chinese font is available",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Gold",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Gold",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Health",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Health",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Mana",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Mana",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Wave",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Wave",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Tower name",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Tower name",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Tower role",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Tower role",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Tower price",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Tower price",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Spell name",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Spell name",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Spell cost",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Spell cost",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Spell stats",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Spell stats",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Spell shortcut",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Spell shortcut",
+            "passed": true
+        },
+        {
+            "name": "English source: Gold",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Gold",
+            "passed": true
+        },
+        {
+            "name": "English source: Health",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Health",
+            "passed": true
+        },
+        {
+            "name": "English source: Mana",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Mana",
+            "passed": true
+        },
+        {
+            "name": "English source: Wave",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Wave",
+            "passed": true
+        },
+        {
+            "name": "English source: Tower name",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Tower name",
+            "passed": true
+        },
+        {
+            "name": "English source: Tower role",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Tower role",
+            "passed": true
+        },
+        {
+            "name": "English source: Tower price",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Tower price",
+            "passed": true
+        },
+        {
+            "name": "English source: Spell name",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Spell name",
+            "passed": true
+        },
+        {
+            "name": "English source: Spell cost",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Spell cost",
+            "passed": true
+        },
+        {
+            "name": "English source: Spell stats",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Spell stats",
+            "passed": true
+        },
+        {
+            "name": "English source: Spell shortcut",
+            "passed": true
+        },
+        {
+            "name": "English visible mesh: Spell shortcut",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Gold",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Gold",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Health",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Health",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Mana",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Mana",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Wave",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Wave",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Tower name",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Tower name",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Tower role",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Tower role",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Tower price",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Tower price",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Spell name",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Spell name",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Spell cost",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Spell cost",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Spell stats",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Spell stats",
+            "passed": true
+        },
+        {
+            "name": "Chinese source: Spell shortcut",
+            "passed": true
+        },
+        {
+            "name": "Chinese visible mesh: Spell shortcut",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters preserve value 0",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters render value 0",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters preserve value 1",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters render value 1",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters preserve value 57",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters render value 57",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters preserve value 280",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters render value 280",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters preserve value 0",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters render value 0",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters preserve value 999999",
+            "passed": true
+        },
+        {
+            "name": "Dynamic counters render value 999999",
+            "passed": true
+        },
+        {
+            "name": "Cheat infinity counter renders",
+            "passed": true
+        },
+        {
+            "name": "Formatted dynamic source returns to English",
+            "passed": true
+        },
+        {
+            "name": "Formatted dynamic source returns to Chinese",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese battle HUD: goldText",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese battle HUD: healthText",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese battle HUD: manaText",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese battle HUD: waveText",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese battle HUD: fireballPriceText",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese battle HUD: fireballStatsText",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese battle HUD: fireballModeText",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese tower price 0",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese tower price 1",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese tower price 2",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese tower price 3",
+            "passed": true
+        },
+        {
+            "name": "Live Chinese tower price 4",
+            "passed": true
+        }
+    ]
+}

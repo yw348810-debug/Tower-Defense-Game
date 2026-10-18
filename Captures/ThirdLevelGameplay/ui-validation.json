@@ -1,0 +1,18 @@
+{
+  "checks": {
+    "completeUI": true,
+    "all33CardTextsFit": true,
+    "refreshButtonChangesOnlyOneCard": true,
+    "upgradeButtonPaysGoldWithoutCasting": true,
+    "fiveTowerButtons": true,
+    "allFourUpgradeButtonsVisible": true,
+    "reinforcementAim": true,
+    "fireballCancelsReinforcementAim": true,
+    "battlecryButtonCastsGlobalBuff": true
+  },
+  "overflow": [],
+  "screen": [
+    3840,
+    2160
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "width": 1280,
+      "height": 800,
+      "pads": [
+        {
+          "slotId": "T1",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T2",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T3",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T4",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T5",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T6",
+          "visible": true,
+          "clicked": true
+        }
+      ],
+      "routesVisible": true
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "pads": [
+        {
+          "slotId": "T1",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T2",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T3",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T4",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T5",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T6",
+          "visible": true,
+          "clicked": true
+        }
+      ],
+      "routesVisible": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "pads": [
+        {
+          "slotId": "T1",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T2",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T3",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T4",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T5",
+          "visible": true,
+          "clicked": true
+        },
+        {
+          "slotId": "T6",
+          "visible": true,
+          "clicked": true
+        }
+      ],
+      "routesVisible": true
+    }
+  ],
+  "textOverflow": [],
+  "fireballPointValidation": true,
+  "roadWidth": 3.4,
+  "laneSpacing": 1.44
+}

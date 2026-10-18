@@ -1,0 +1,179 @@
+{
+    "passed": true,
+    "failures": 0,
+    "error": "",
+    "checks": [
+        {
+            "name": "Uses existing second map with eight pads and two entrances",
+            "passed": true
+        },
+        {
+            "name": "Twelve waves, 348 enemies and all six kinds",
+            "passed": true
+        },
+        {
+            "name": "Second level configuration is complete",
+            "passed": true
+        },
+        {
+            "name": "Three tiers each have at least ten unique cards",
+            "passed": true
+        },
+        {
+            "name": "Second-level navigation resolves its configured next map",
+            "passed": true
+        },
+        {
+            "name": "24 seeds produce three distinct eligible offers at every tier",
+            "passed": true
+        },
+        {
+            "name": "All three selections pause combat",
+            "passed": true
+        },
+        {
+            "name": "Level 1 barracks create exactly two soldiers",
+            "passed": true
+        },
+        {
+            "name": "Formation retains separate road positions",
+            "passed": true
+        },
+        {
+            "name": "Level 2 creates three stronger soldiers and preserves health fraction",
+            "passed": true
+        },
+        {
+            "name": "Level 3 retains three soldiers and adds one stronger hero",
+            "passed": true
+        },
+        {
+            "name": "Soldier and hero use different model assets",
+            "passed": true
+        },
+        {
+            "name": "Ground enemy accepts one exclusive blocker",
+            "passed": true
+        },
+        {
+            "name": "Flying enemies bypass barracks blockers",
+            "passed": true
+        },
+        {
+            "name": "Soldier attack damages its blocked enemy",
+            "passed": true
+        },
+        {
+            "name": "Soldier death releases enemy and starts one respawn slot",
+            "passed": true
+        },
+        {
+            "name": "Soldier respawn delay is eight seconds",
+            "passed": true
+        },
+        {
+            "name": "Respawn restores capacity without duplicates",
+            "passed": true
+        },
+        {
+            "name": "Hero respawn delay is fifteen seconds",
+            "passed": true
+        },
+        {
+            "name": "Barracks cards stack on living and future troops",
+            "passed": true
+        },
+        {
+            "name": "Reinforcements shorten future deaths to six seconds",
+            "passed": true
+        },
+        {
+            "name": "Frost spell spends eighteen mana and hard freezes",
+            "passed": true
+        },
+        {
+            "name": "Frozen enemy cannot move",
+            "passed": true
+        },
+        {
+            "name": "Frost cooldown blocks immediate recast",
+            "passed": true
+        },
+        {
+            "name": "Pause stops cooldown and rejects spells",
+            "passed": true
+        },
+        {
+            "name": "Frost cooldown recovers after ten combat seconds",
+            "passed": true
+        },
+        {
+            "name": "Ultimate Retrofit jumps to level three once at zero cost",
+            "passed": true
+        },
+        {
+            "name": "Retrofitted tower gains permanent twenty-five percent damage",
+            "passed": true
+        },
+        {
+            "name": "Last Stand trades current and maximum health without mutating map",
+            "passed": true
+        },
+        {
+            "name": "Last Stand increases tower damage",
+            "passed": true
+        },
+        {
+            "name": "Isolated tower receives extra range",
+            "passed": true
+        },
+        {
+            "name": "Nearby tower immediately removes isolation bonus",
+            "passed": true
+        },
+        {
+            "name": "Furnace grants manual free fireball at zero mana",
+            "passed": true
+        },
+        {
+            "name": "Free casts create no dividend or second meteor",
+            "passed": true
+        },
+        {
+            "name": "Paid fireball creates exactly one extra meteor and dividend",
+            "passed": true
+        },
+        {
+            "name": "Duplicate meteor cannot recursively duplicate itself",
+            "passed": true
+        },
+        {
+            "name": "Steam burst triggers once per enemy cooldown without recursion",
+            "passed": true
+        },
+        {
+            "name": "Polar pulses freeze once within per-enemy immunity",
+            "passed": true
+        },
+        {
+            "name": "Piercing rounds damage two enemies behind target",
+            "passed": true
+        },
+        {
+            "name": "Aftershock causes one delayed forty-percent explosion",
+            "passed": true
+        },
+        {
+            "name": "Second Wind prevents lethal damage and purges without rewards",
+            "passed": true
+        },
+        {
+            "name": "Second Wind cannot revive twice",
+            "passed": true
+        },
+        {
+            "name": "Restart clears run-local advanced effects",
+            "passed": true
+        }
+    ]
+}

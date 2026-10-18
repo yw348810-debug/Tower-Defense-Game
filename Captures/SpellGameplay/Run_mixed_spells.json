@@ -1,0 +1,30 @@
+{
+    "strategy": "mixed_spells",
+    "phase": "Victory",
+    "outcome": "Victory",
+    "timedOut": false,
+    "kills": 155,
+    "leaks": 1,
+    "HP": 19,
+    "gold": 62,
+    "mana": 17,
+    "spells": 15,
+    "spellTicks": 90,
+    "shots": 393,
+    "upgrades": 12,
+    "shatters": 7,
+    "towercount": 6,
+    "wave": 7,
+    "assaultTime": 186.21946716308594,
+    "realElapsed": 92.87380981445313,
+    "simulationSpeed": 2.0,
+    "slotOrder": [
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5",
+        "T6"
+    ],
+    "error": ""
+}

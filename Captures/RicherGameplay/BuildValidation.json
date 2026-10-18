@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "result": "succeeded",
+  "target": "Windows x64",
+  "durationSeconds": 21.2692797,
+  "reportedPlayerSizeMB": 166.27,
+  "errors": 0,
+  "warnings": 3,
+  "warningNotes": [
+    "Two unused URP debug occlusion shaders stripped",
+    "Bundled TMP shader has a deprecated debug-symbol pragma"
+  ],
+  "startupCheck": "headless startup passed; no exception or missing-resource error",
+  "archiveSizeMB": 72.65
+}

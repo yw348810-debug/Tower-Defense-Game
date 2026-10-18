@@ -1,0 +1,101 @@
+{
+    "passed": true,
+    "failures": 0,
+    "level": 1,
+    "scene": "Assets/Game/Scenes/Level01_ForestOutpost.unity",
+    "error": "",
+    "checks": [
+        {
+            "name": "Hard preserves the original starting gold and base health",
+            "passed": true
+        },
+        {
+            "name": "Hard preserves original enemy health, speed, reward and melee",
+            "passed": true
+        },
+        {
+            "name": "Changing difficulty in settings preserves pause and the running battle",
+            "passed": true
+        },
+        {
+            "name": "Easy immediately weakens an existing enemy",
+            "passed": true
+        },
+        {
+            "name": "Live difficulty changes preserve health fraction, path and crowd control",
+            "passed": true
+        },
+        {
+            "name": "Repeated difficulty changes cannot repeatedly mint starting gold",
+            "passed": true
+        },
+        {
+            "name": "Easy starts with eighty percent more gold and twice the base health",
+            "passed": true
+        },
+        {
+            "name": "Newly spawned Easy enemies use the weaker statistics",
+            "passed": true
+        },
+        {
+            "name": "Easy enemies give a larger gold reward",
+            "passed": true
+        },
+        {
+            "name": "Easy kills award the scaled gold and mana exactly once",
+            "passed": true
+        },
+        {
+            "name": "Repeated death cannot duplicate Easy rewards",
+            "passed": true
+        },
+        {
+            "name": "Switching a living one-health Easy core to Hard cannot round it down to zero",
+            "passed": true
+        },
+        {
+            "name": "A one-health Easy core also survives switching through Cheat to Hard",
+            "passed": true
+        },
+        {
+            "name": "Cheat still respects the settings pause",
+            "passed": true
+        },
+        {
+            "name": "Cheat builds from an empty finite gold bank",
+            "passed": true
+        },
+        {
+            "name": "Cheat permits both tower upgrades",
+            "passed": true
+        },
+        {
+            "name": "Cheat fireball works with an empty finite mana bank",
+            "passed": true
+        },
+        {
+            "name": "Cheat purchases and casts never consume the finite bank",
+            "passed": true
+        },
+        {
+            "name": "Cheat leaks cannot reduce base health or cause defeat",
+            "passed": true
+        },
+        {
+            "name": "Leaving Cheat restores the finite bank without a huge resource gift",
+            "passed": true
+        },
+        {
+            "name": "Normal purchases and spell costs resume after leaving Cheat",
+            "passed": true
+        },
+        {
+            "name": "Restart resets difficulty entitlements and restores Hard starting values",
+            "passed": true
+        },
+        {
+            "name": "Difficulty never mutates the map or serialized enemy profiles",
+            "passed": true
+        }
+    ]
+}

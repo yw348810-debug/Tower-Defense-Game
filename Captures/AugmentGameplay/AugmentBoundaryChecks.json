@@ -1,0 +1,222 @@
+{
+    "passed": true,
+    "failures": 0,
+    "error": "",
+    "checks": [
+        {
+            "name": "First-level pools contain ten unique cards per tier",
+            "passed": true,
+            "detail": "20 first-level definitions; barracks cards are reserved for later levels."
+        },
+        {
+            "name": "Opening offers are unique silver choices with a generic option",
+            "passed": true,
+            "detail": "Validated 32 opening selections; no mixed tier or prismatic offer."
+        },
+        {
+            "name": "Opening waits before spawning or advancing combat",
+            "passed": true,
+            "detail": "Choice overlay owns a completely idle battle."
+        },
+        {
+            "name": "Opening gates building, spells, pause and speed",
+            "passed": true,
+            "detail": "Affordability is supplied deliberately; the choice gate rejects the actions."
+        },
+        {
+            "name": "Invalid choice indices cannot start combat",
+            "passed": true,
+            "detail": "The selection remains pending after invalid input."
+        },
+        {
+            "name": "One valid opening choice starts combat once",
+            "passed": true,
+            "detail": "An extra click cannot grant a second opening card."
+        },
+        {
+            "name": "Stored Mana grants twelve mana only once",
+            "passed": true,
+            "detail": "Duplicate activation cannot repeat an immediate grant."
+        },
+        {
+            "name": "Construction grant discounts exactly three future builds",
+            "passed": true,
+            "detail": "The fourth build pays full cost; discounts do not refund prior purchases."
+        },
+        {
+            "name": "Long Range applies to existing and future towers without mutating prefabs",
+            "passed": true,
+            "detail": "Runtime effective range receives +0.5m; shared serialized range stays unchanged."
+        },
+        {
+            "name": "Frost duration and ordinary Blast radius use their separate modifiers",
+            "passed": true,
+            "detail": "The Blast calibration does not increase shatter radius."
+        },
+        {
+            "name": "Repeated Frost refreshes the augmented duration without stacking slow",
+            "passed": true,
+            "detail": "Two hits retain the same movement multiplier and refresh to 3.25 seconds."
+        },
+        {
+            "name": "Shield absorbs leaks before core health and leaks give no rewards",
+            "passed": true,
+            "detail": "Leak damage is spent once against shield, then health."
+        },
+        {
+            "name": "Mana Scavenger triggers on the eighth kill",
+            "passed": true,
+            "detail": "The extra mana is added to each profile's ordinary mana drop."
+        },
+        {
+            "name": "Lucky Loot modifies only one base gold reward per kill",
+            "passed": true,
+            "detail": "100 seeded kill resolutions: each reward is base or base+50%; mana is unchanged; bonus drops=17"
+        },
+        {
+            "name": "Combined Arms grants its reward when the third type is built",
+            "passed": true,
+            "detail": "Exactly 30 gold and 6 mana after the full roster exists."
+        },
+        {
+            "name": "Combined Arms cannot repeat on another build",
+            "passed": true,
+            "detail": "The roster reward is run-local and one-shot."
+        },
+        {
+            "name": "Focused Flame rewards precise inner-half placement",
+            "passed": true,
+            "detail": "Inner, outer and outside targets receive the expected distinct damage."
+        },
+        {
+            "name": "Heavy Hunter boosts tower damage before heavy armor",
+            "passed": true,
+            "detail": "+30% tower damage still passes through the profile's reduction."
+        },
+        {
+            "name": "Heavy Hunter does not boost ordinary targets",
+            "passed": true,
+            "detail": "The conditional modifier is limited to Heavy profiles."
+        },
+        {
+            "name": "Gun Rhythm adds one 60% bullet after three ordinary shots",
+            "passed": true,
+            "detail": "The echo does not advance or recursively trigger the ordinary-shot counter."
+        },
+        {
+            "name": "Rhythm counter resets when a tower is disabled",
+            "passed": true,
+            "detail": "A recycled or restarted actor cannot inherit a pending echo."
+        },
+        {
+            "name": "Frost Mark boosts Gun attacks against slowed targets",
+            "passed": true,
+            "detail": "Gun damage receives +30% without consuming Frost."
+        },
+        {
+            "name": "Frost Mark does not boost Frost's own damage",
+            "passed": true,
+            "detail": "The vulnerability belongs specifically to Gun attacks."
+        },
+        {
+            "name": "Shatter Resonance boosts only the one shatter explosion",
+            "passed": true,
+            "detail": "Normal Blast damage is unchanged; the direct target consumes Frost once."
+        },
+        {
+            "name": "Falling Fireball is excluded from Burning Mark queries",
+            "passed": true,
+            "detail": "The falling visual does not create a burn vulnerability."
+        },
+        {
+            "name": "Burning point containment is planar and bounded",
+            "passed": true,
+            "detail": "Vertical position does not change the circular XZ coverage."
+        },
+        {
+            "name": "Extended Burn deals eight ticks and returns to its pool",
+            "passed": true,
+            "detail": "Four seconds preserve the configured half-second tick interval."
+        },
+        {
+            "name": "Fire Dividend pays only a successful paid cast",
+            "passed": true,
+            "detail": "An invalid location grants neither gold nor a spell and does not spend mana."
+        },
+        {
+            "name": "Field Workshop discounts future upgrades without retrospective refunds",
+            "passed": true,
+            "detail": "Both upgrade stages use ceiling-rounded gold fees; mana is unchanged."
+        },
+        {
+            "name": "Two upgrades remain the cap with Workshop",
+            "passed": true,
+            "detail": "The discount never introduces a fourth tower level or extra payment."
+        },
+        {
+            "name": "Type Specialization stays inactive below three towers",
+            "passed": true,
+            "detail": "Two towers do not satisfy the threshold."
+        },
+        {
+            "name": "Type Specialization boosts the qualifying type at three towers",
+            "passed": true,
+            "detail": "Three Gun towers unlock +25% Gun damage."
+        },
+        {
+            "name": "Type Specialization does not boost other tower types",
+            "passed": true,
+            "detail": "An unqualified Frost tower retains ordinary damage."
+        },
+        {
+            "name": "Burning Mark boosts tower hits inside an active burn",
+            "passed": true,
+            "detail": "The Fireball's current coverage changes tower damage."
+        },
+        {
+            "name": "Overlapping burns do not stack Burning Mark",
+            "passed": true,
+            "detail": "Two active areas still apply a single +25% vulnerability."
+        },
+        {
+            "name": "Leaving the burn immediately removes Burning Mark",
+            "passed": true,
+            "detail": "The modifier is spatial, not a persistent enemy debuff."
+        },
+        {
+            "name": "Field Medic heals on kill milestones up to six times",
+            "passed": true,
+            "detail": "100 kills include six completed 15-kill milestones; no seventh payment."
+        },
+        {
+            "name": "Field Medic cannot exceed the core's configured maximum",
+            "passed": true,
+            "detail": "Healing at full health does not create excess health or shield."
+        },
+        {
+            "name": "Midpoint choice is gold, unique and freezes the assault",
+            "passed": true,
+            "detail": "The second choice occurs before the fourth assault phase."
+        },
+        {
+            "name": "Midpoint choice blocks actions without spending or advancing burns",
+            "passed": true,
+            "detail": "A live battle remains frozen while the player reads cards."
+        },
+        {
+            "name": "Second choice restores the previous double speed",
+            "passed": true,
+            "detail": "Choosing a card does not silently reset the player's 2x setting."
+        },
+        {
+            "name": "The midpoint selection is not offered twice",
+            "passed": true,
+            "detail": "Advancing past the trigger cannot grant another card."
+        },
+        {
+            "name": "Restart clears effects, rewards, callbacks and battle objects",
+            "passed": true,
+            "detail": "An old pooled burn cannot damage the fresh opening choice."
+        }
+    ]
+}

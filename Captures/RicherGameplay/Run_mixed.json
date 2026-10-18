@@ -1,0 +1,28 @@
+{
+  "strategy": "mixed",
+  "phase": "Victory",
+  "outcome": "Victory",
+  "timedOut": false,
+  "kills": 155,
+  "leaks": 1,
+  "HP": 17,
+  "gold": 594,
+  "shots": 627,
+  "upgrades": 6,
+  "shatters": 21,
+  "towercount": 6,
+  "wave": 7,
+  "assaultTime": 199.27218627929688,
+  "realElapsed": 100.00566864013672,
+  "slotOrder": [
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6"
+  ],
+  "error": "",
+  "simulationSpeed": 2,
+  "note": "Uninterrupted normal 2x run using the game speed control and real gold purchases."
+}

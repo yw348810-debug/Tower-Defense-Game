@@ -1,0 +1,57 @@
+{
+    "passed": true,
+    "failures": 0,
+    "checks": [
+        {
+            "name": "Automatic opening",
+            "passed": true,
+            "detail": "No start-wave action."
+        },
+        {
+            "name": "Waves overlap and use both entries",
+            "passed": true,
+            "detail": "Wave 1 enemy remains alive when route B begins."
+        },
+        {
+            "name": "Final spawns cannot cause early victory",
+            "passed": true,
+            "detail": "156 enemies are still alive after all 156 were scheduled."
+        },
+        {
+            "name": "Death awards once",
+            "passed": true,
+            "detail": "Repeated damage does not repeat the reward."
+        },
+        {
+            "name": "Old projectile cannot hit a reused target",
+            "passed": true,
+            "detail": "Same pooled component, different generation."
+        },
+        {
+            "name": "Frost refreshes without multiplying",
+            "passed": true,
+            "detail": "Two frost hits still produce 0.6 movement speed."
+        },
+        {
+            "name": "Cannon and shatter damage each apply once",
+            "passed": true,
+            "detail": "Direct target and nearby enemy take 18 + 20; distant enemy takes zero."
+        },
+        {
+            "name": "Shatter does not recurse through area targets",
+            "passed": true,
+            "detail": "Only the directly hit enemy consumes frost."
+        },
+        {
+            "name": "Brute leak applies three damage once",
+            "passed": true,
+            "detail": "A repeated resolve cannot deduct more health."
+        },
+        {
+            "name": "Defeat cancels pending spawns and clears combat",
+            "passed": true,
+            "detail": "No enemies respawn after defeat."
+        }
+    ],
+    "error": ""
+}

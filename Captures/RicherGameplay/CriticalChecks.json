@@ -1,0 +1,67 @@
+{
+    "passed": true,
+    "failures": 0,
+    "checks": [
+        {
+            "name": "Initial restart",
+            "passed": true,
+            "detail": "Gold 220, HP 20, wave 1."
+        },
+        {
+            "name": "Exact build payment",
+            "passed": true,
+            "detail": "Cost 60, remaining 160."
+        },
+        {
+            "name": "Duplicate build rejected without payment",
+            "passed": true,
+            "detail": "Accepted False, gold 160 -> 160."
+        },
+        {
+            "name": "Invalid pad rejected",
+            "passed": true,
+            "detail": "Accepted False."
+        },
+        {
+            "name": "Upgrade pays once and improves tower",
+            "passed": true,
+            "detail": "Price 50, damage 10 -> 16, range 5.5 -> 6.1."
+        },
+        {
+            "name": "Second upgrade rejected without payment",
+            "passed": true,
+            "detail": "Accepted False, gold 110 -> 110."
+        },
+        {
+            "name": "Empty pad upgrade rejected",
+            "passed": true,
+            "detail": "Accepted False."
+        },
+        {
+            "name": "Insufficient funds rejected without payment",
+            "passed": true,
+            "detail": "Remaining 50, cost 60, accepted False."
+        },
+        {
+            "name": "Pause stops simulation",
+            "passed": true,
+            "detail": "Time scale 0."
+        },
+        {
+            "name": "Speed toggle stays paused",
+            "passed": true,
+            "detail": "Time scale 0, selected speed 2."
+        },
+        {
+            "name": "Resume restores selected speed",
+            "passed": true,
+            "detail": "Time scale 2."
+        },
+        {
+            "name": "Restart resets all battle state",
+            "passed": true,
+            "detail": "Gold 220, HP 20, progress 0, paused False."
+        }
+    ],
+    "error": ""
+}

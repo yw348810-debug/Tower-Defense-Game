@@ -1,0 +1,92 @@
+{
+    "passed": true,
+    "failures": 0,
+    "checks": [
+        {
+            "name": "Zero starting mana rejects casts",
+            "passed": true,
+            "detail": "No mana, no spell and no charge."
+        },
+        {
+            "name": "Enemies use both parallel lanes",
+            "passed": true,
+            "detail": "First two enemies stand 1.44m apart across the road."
+        },
+        {
+            "name": "Blast hits enemies in both lanes",
+            "passed": true,
+            "detail": "A single Blast shot damages the parallel neighbor within its AOE."
+        },
+        {
+            "name": "Rapid fire remains single target",
+            "passed": true,
+            "detail": "A rapid-fire shot leaves the neighboring lane enemy untouched."
+        },
+        {
+            "name": "Kills award mana once",
+            "passed": true,
+            "detail": "12 normal kills earn 12 mana."
+        },
+        {
+            "name": "Leaked enemies award no mana",
+            "passed": true,
+            "detail": "A leak cannot fund another spell."
+        },
+        {
+            "name": "Off-map cast has no payment",
+            "passed": true,
+            "detail": "Map bounds reject remote positions."
+        },
+        {
+            "name": "Paused cast has no payment",
+            "passed": true,
+            "detail": "Pause freezes spell simulation."
+        },
+        {
+            "name": "Spell card enters aiming without spending",
+            "passed": true,
+            "detail": "Target preview alone never charges mana."
+        },
+        {
+            "name": "Valid cast pays once",
+            "passed": true,
+            "detail": "The fireball consumes exactly its configured cost."
+        },
+        {
+            "name": "Fireball falls before damage begins",
+            "passed": true,
+            "detail": "No damage before impact."
+        },
+        {
+            "name": "Impact starts periodic AOE",
+            "passed": true,
+            "detail": "One tick at impact; armor still applies."
+        },
+        {
+            "name": "Leaving the circle stops damage",
+            "passed": true,
+            "detail": "Targets are checked inside the circle each tick."
+        },
+        {
+            "name": "Burn lasts three seconds and expires",
+            "passed": true,
+            "detail": "Six half-second ticks; one missed while outside."
+        },
+        {
+            "name": "Fireball does not consume frost or shatter",
+            "passed": true,
+            "detail": "Fireball is independent of Blast's shatter trigger."
+        },
+        {
+            "name": "Pooled fireball resets for another cast",
+            "passed": true,
+            "detail": "No ticks or callbacks leak into the next cast."
+        },
+        {
+            "name": "Restart clears mana and active spells",
+            "passed": true,
+            "detail": "A cancelled burn cannot damage a new round."
+        }
+    ],
+    "error": ""
+}

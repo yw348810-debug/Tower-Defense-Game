@@ -1,0 +1,104 @@
+{
+    "passed": true,
+    "failures": 0,
+    "level": 2,
+    "error": "",
+    "checks": [
+        {
+            "name": "Spell upgrade availability follows the level",
+            "passed": true
+        },
+        {
+            "name": "Fireball first upgrade charges the exact cost",
+            "passed": true
+        },
+        {
+            "name": "Fireball second upgrade reaches level three",
+            "passed": true
+        },
+        {
+            "name": "Fireball upgrades increase its effective radius",
+            "passed": true
+        },
+        {
+            "name": "Fireball stops at level three without charging again",
+            "passed": true
+        },
+        {
+            "name": "Fireball rejects an unaffordable upgrade",
+            "passed": true
+        },
+        {
+            "name": "FrostNova first upgrade charges the exact cost",
+            "passed": true
+        },
+        {
+            "name": "FrostNova second upgrade reaches level three",
+            "passed": true
+        },
+        {
+            "name": "FrostNova upgrades increase its effective radius",
+            "passed": true
+        },
+        {
+            "name": "FrostNova stops at level three without charging again",
+            "passed": true
+        },
+        {
+            "name": "FrostNova rejects an unaffordable upgrade",
+            "passed": true
+        },
+        {
+            "name": "Settings pause blocks spell purchases",
+            "passed": true
+        },
+        {
+            "name": "Augment choice blocks spell purchases",
+            "passed": true
+        },
+        {
+            "name": "Victory blocks spell purchases",
+            "passed": true
+        },
+        {
+            "name": "Defeat blocks spell purchases",
+            "passed": true
+        },
+        {
+            "name": "Second level retains two unlocked spells",
+            "passed": true
+        },
+        {
+            "name": "Max-level meteor and its trail are visibly larger",
+            "passed": true
+        },
+        {
+            "name": "Burn decals sit above the road surface",
+            "passed": true
+        },
+        {
+            "name": "Visual tiers preserve the same burn tick schedule",
+            "passed": true
+        },
+        {
+            "name": "Max-level Frost has additional runes and light columns",
+            "passed": true
+        },
+        {
+            "name": "Max-level summoning adds a complete gold ritual",
+            "passed": true
+        },
+        {
+            "name": "Max-level battlecry adds runes and several light columns",
+            "passed": true
+        },
+        {
+            "name": "Pause holds spell visual lifetimes",
+            "passed": true
+        },
+        {
+            "name": "Restart resets spell levels and transient visuals",
+            "passed": true
+        }
+    ]
+}
